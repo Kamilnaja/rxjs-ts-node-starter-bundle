@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "experimentalDecorators": true,
+        "module": "CommonJS",
+        "moduleResolution": "node"
+    },
+    "include": [
+        "index.ts"
+    ]
+}
